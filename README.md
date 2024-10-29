@@ -21,7 +21,7 @@ ChromeHarvest is a PowerShell-based tool for backing up and archiving Chrome pro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ChromeHarvest.git
+   git clone https://github.com/aryansharma0628/ChromeHarvest.git
    cd ChromeHarvest
    ```
 
