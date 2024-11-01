@@ -38,7 +38,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ChromeHarvest.git
+   git clone https://github.com/aryansharma0628/ChromeHarvest.git
    cd ChromeHarvest
    ```
 
